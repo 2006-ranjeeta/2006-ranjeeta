@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 AI & Data Science undergraduate 👩‍💻 <br>Python • DSA • ML<br>Turning theory into working systems through projects 🛠️<br>Obsessed with logic, problem-solving, and continuous improvement 🚀<br>Targeting software engineering roles in product-based companies
 
 
